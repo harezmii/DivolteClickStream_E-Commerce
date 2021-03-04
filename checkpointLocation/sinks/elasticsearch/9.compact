@@ -1,0 +1,10 @@
+v1
+{"taskId":0,"execTimeMillis":1614878243952,"resource":"clickstreamdata/_doc","records":1}
+{"taskId":0,"execTimeMillis":1614878251510,"resource":"clickstreamdata/_doc","records":5}
+{"taskId":0,"execTimeMillis":1614878263361,"resource":"clickstreamdata/_doc","records":1}
+{"taskId":0,"execTimeMillis":1614878265618,"resource":"clickstreamdata/_doc","records":1}
+{"taskId":0,"execTimeMillis":1614878267538,"resource":"clickstreamdata/_doc","records":2}
+{"taskId":0,"execTimeMillis":1614878272056,"resource":"clickstreamdata/_doc","records":1}
+{"taskId":0,"execTimeMillis":1614878274101,"resource":"clickstreamdata/_doc","records":2}
+{"taskId":0,"execTimeMillis":1614878756739,"resource":"clickstreamdata/_doc","records":1}
+{"taskId":0,"execTimeMillis":1614878759325,"resource":"clickstreamdata/_doc","records":3}
